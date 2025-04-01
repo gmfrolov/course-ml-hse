@@ -80,21 +80,21 @@
 
 Метрики модели:
 
-    - Train r2_score: 0.72
-    - Test r2_score: 0.76
-    - Train MSE: 78 979 481 289
-    - Test MSE: 138 357 782 596
-    - Train RMSE: 281 032
-    - Test RMSE: 371 964
+  - Train r2_score: 0.72
+  - Test r2_score: 0.76
+  - Train MSE: 78 979 481 289
+  - Test MSE: 138 357 782 596
+  - Train RMSE: 281 032
+  - Test RMSE: 371 964
 
 Работа API:
-
+- Запрос в формате json
 ![Запрос в формате json](https://github.com/gmfrolov/course-ml-hse/blob/main/hw1/Query%20json.png)
-
+- Ответ на запрос в формате json
 ![Ответ на запрос в формате json](https://github.com/gmfrolov/course-ml-hse/blob/main/hw1/Result%20json.png)
-
+- Запрос в формате csv
 ![Запрос в формате csv](https://github.com/gmfrolov/course-ml-hse/blob/main/hw1/Query%20csv.png)
-
+- Ответ на запрос в формате csv
 ![Ответ на запрос в формате csv](https://github.com/gmfrolov/course-ml-hse/blob/main/hw1/Result%20csv.png)
 
 ## 3. Что дало наибольший буст в качестве
